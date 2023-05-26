@@ -318,5 +318,107 @@
   ],
   "users":[
     {"name":"Harish Verma"}
+  ],
+    "colors": [
+    {
+      "name": "White",
+      "code": "#FFFFFF"
+    },
+    {
+      "name": "Cream",
+      "code": "#FFFDD0"
+    },
+    {
+      "name": "Ivory",
+      "code": "#FFFFF0"
+    },
+    {
+      "name": "Beige",
+      "code": "#F5F5DC"
+    },
+    {
+      "name": "Champagne",
+      "code": "#F7E7CE"
+    },
+    {
+      "name": "Pale yellow",
+      "code": "#FFFF99"
+    },
+    {
+      "name": "Lemon",
+      "code": "#FFF700"
+    },
+    {
+      "name": "Pastel orange",
+      "code": "#FFB347"
+    },
+    {
+      "name": "Coral",
+      "code": "#FF7F50"
+    },
+    {
+      "name": "Baby pink",
+      "code": "#F4C2C2"
+    },
+    {
+      "name": "Blush",
+      "code": "#DE5D83"
+    },
+    {
+      "name": "Peach",
+      "code": "#FFE5B4"
+    },
+    {
+      "name": "Mint green",
+      "code": "#98FF98"
+    },
+    {
+      "name": "Seafoam",
+      "code": "#71EEB8"
+    },
+    {
+      "name": "Sky blue",
+      "code": "#87CEEB"
+    },
+    {
+      "name": "Periwinkle",
+      "code": "#CCCCFF"
+    },
+    {
+      "name": "Lavender",
+      "code": "#E6E6FA"
+    },
+    {
+      "name": "Lilac",
+      "code": "#C8A2C8"
+    },
+    {
+      "name": "Pale gray",
+      "code": "#F5F5F5"
+    },
+    {
+      "name": "Silver",
+      "code": "#C0C0C0"
+    },
+    {
+      "name": "Pale gold",
+      "code": "#E6BE8A"
+    },
+    {
+      "name": "Champagne pink",
+      "code": "#F1DDCF"
+    },
+    {
+      "name": "Pale lavender",
+      "code": "#DCD0FF"
+    },
+    {
+      "name": "Pale blue",
+      "code": "#AFEEEE"
+    },
+    {
+      "name": "Soft green",
+      "code": "#C1FFC1"
+    }
   ]
 }
