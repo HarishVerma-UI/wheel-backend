@@ -15,10 +15,13 @@ No authentication is required to access the API.
 ![image](https://github.com/HarishVerma-UI/wheel-backend/assets/16557259/6379010b-b29c-4766-a5ef-e5d977059c0e)
 
 
-
 ### API Endpoints
 
 - Wheel API: [https://wheel-api.onrender.com/](https://wheel-api.onrender.com/)
 - Questions API: [https://wheel-api.onrender.com/questions](https://wheel-api.onrender.com/questions)
 - Users API : [https://wheel-api.onrender.com/users](https://wheel-api.onrender.com/users)
 - Colors API : [https://wheel-api.onrender.com/colors](https://wheel-api.onrender.com/colors)
+
+
+## To access and modify resources, you can use any HTTP method:
+GET POST PUT PATCH DELETE OPTIONS
