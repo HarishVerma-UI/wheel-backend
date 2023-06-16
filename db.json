@@ -317,19 +317,58 @@
     }
   ],
   "users":[
-    {'name': 'Ro Sieben', 'color':'red'},
-    {'name':'Nathan Samsoedien', 'color':'red'},
-    {'name':'Danny Hegeraad', 'color':'red'},
-    {'name':'Bert Kuipers', 'color':'red'},
-    {'name':'Kaushik Sakala', 'color':'red'},
-    {'name':'Bharatgouda Police Patil', 'color':'red'},
-    {'name':'Akshay Kumar', 'color':'red'},
-    {'name':'Eduard Nijensteen', 'color':'red'},
-    {'name':'Eric Edelenbos', 'color':'red'},
-    {'name':'Palvi Jojra', 'color':'red'},
-    {'name':'Eldin Hulsman', 'color':'red'},
-    {'name':'Lex Goudriaan', 'color':'red'},
-    {'name':'Kenneth Mensink', 'color':'red'}
+    {
+      "name": "Ro Sieben",
+       "color":"red"
+    },
+    {
+      "name":"Nathan Samsoedien",
+       "color":"red"
+    },
+    {
+      "name":"Danny Hegeraad",
+       "color":"red"
+    },
+    {
+      "name":"Bert Kuipers",
+      "color":"red"
+    },
+    {
+      "name":"Kaushik Sakala", 
+      "color":"red"
+    },
+    {
+      "name":"Bharatgouda Police Patil", 
+      "color":"red"
+    },
+    {
+      "name":"Akshay Kumar", 
+      "color":"red"
+    },
+    {
+      "name":"Eduard Nijensteen", 
+      "color":"red"
+    },
+    {
+      "name":"Eric Edelenbos",
+      "color":"red"
+    },
+    {
+      "name":"Palvi Jojra", 
+      "color":"red"
+    },
+    {
+      "name":"Eldin Hulsman", 
+      "color":"red"
+    },
+    {
+      "name":"Lex Goudriaan", 
+      "color":"red"
+    },
+    {
+      "name":"Kenneth Mensink", 
+      "color":"red'
+    },
   ],
     "colors": [
     {
